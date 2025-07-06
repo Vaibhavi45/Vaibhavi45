@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Vaibhavi Patil
 
-<!--
-**Vaibhavi45/Vaibhavi45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student passionate about building real-world tech solutions.  
+🚀 I love solving problems using Data Structures, Algorithms, and Full Stack Web Development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** C++, Python, JavaScript.
+- **Web:** HTML, CSS, Node.js.
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code,linux.
+- **Tech:** Machine Learning.
+
+---
+
+## 💼 Projects
+### 🚚 [Fuel-Express](https://github.com/Vaibhavi45/Fuel-Express)
+A smart fuel delivery system built for real-world logistics — location tracking, and efficient delivery routing.
+Also Updated for electric vehicles........
+
+> *More projects coming soon! Stay tuned.*
+
+---
+
+## 📈 GitHub Stats
+![Vaibhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhavi45&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhavi-patil)  
+- 📧 Email: patilvaibhavi720@gmail.com
+
+---
+
+
+_"When You are Dreaming, make sure You DREAM BIG.....!!!!"
+
+
+
