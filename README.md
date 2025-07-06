@@ -29,7 +29,7 @@ Also Updated for electric vehicles........
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhavi-patil)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhavi-patil-0b6082295)  
 - 📧 Email: patilvaibhavi720@gmail.com
 
 ---
